@@ -5,7 +5,7 @@
 package uuid
 
 import (
-	guuid "github.com/google/uuid"
+	guuid "github.com/Beeketing/uuid"
 )
 
 // NodeInterface returns the name of the interface from which the NodeID was

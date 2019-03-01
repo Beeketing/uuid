@@ -4,7 +4,7 @@
 
 package uuid
 
-import guuid "github.com/google/uuid"
+import guuid "github.com/Beeketing/uuid"
 
 // Random returns a Random (Version 4) UUID or panics.
 //

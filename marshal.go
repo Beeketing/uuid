@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	guuid "github.com/google/uuid"
+	guuid "github.com/Beeketing/uuid"
 )
 
 // MarshalText implements encoding.TextMarshaler.
