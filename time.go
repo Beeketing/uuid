@@ -7,7 +7,7 @@ package uuid
 import (
 	"encoding/binary"
 
-	guuid "github.com/Beeketing/uuid"
+	guuid "github.com/Beeketing/g-uuid"
 )
 
 // A Time represents a time as the number of 100's of nanoseconds since 15 Oct

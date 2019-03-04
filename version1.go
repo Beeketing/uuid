@@ -5,7 +5,7 @@
 package uuid
 
 import (
-	guuid "github.com/Beeketing/uuid"
+	guuid "github.com/Beeketing/g-uuid"
 )
 
 // NewUUID returns a Version 1 UUID based on the current NodeID and clock

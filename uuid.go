@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"io"
 
-	guuid "github.com/Beeketing/uuid"
+	guuid "github.com/Beeketing/g-uuid"
 )
 
 // Array is a pass-by-value UUID that can be used as an effecient key in a map.
